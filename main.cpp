@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
-	cout << "B change hello world" << endl;
+
+	cout << "A change hello world, then B change too" << endl;
+
 	return 0;
 }
